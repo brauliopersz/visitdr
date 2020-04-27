@@ -1,0 +1,45 @@
+.footer{
+
+    padding: 30px;
+    background-color:#212529;
+}
+
+.instagram{
+
+    display: inline-block;
+    
+
+}
+
+.twitter{
+
+    display: inline-block;
+    
+}
+
+.youtube{
+
+    display: inline-block;
+    
+}
+
+.main{
+
+    
+    text-align: center;
+}
+
+h5{
+
+    color: black;
+
+}
+
+p{
+
+    color: black;
+    text-align: center;
+}
+
+
+
